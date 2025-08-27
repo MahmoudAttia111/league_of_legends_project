@@ -45,7 +45,8 @@ jupyter notebook league_of_legends_Project.ipynb
 - Random Forest  
 - Support Vector Machine (SVM)  
 - XGBoost  
-- Neural Networks (Keras/TensorFlow)  
+- Neural Networks (Keras/TensorFlow)
+  
 ```
 ## 📊 Tasks Covered
 - **Binary Classification** → Win/Loss prediction  
