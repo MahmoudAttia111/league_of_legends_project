@@ -47,7 +47,7 @@ jupyter notebook league_of_legends_Project.ipynb
 - XGBoost  
 - Neural Networks (Keras/TensorFlow)
   
-```
+ 
 ## 📊 Tasks Covered
 - **Binary Classification** → Win/Loss prediction  
 - **Regression** → Predicting gold earned  
