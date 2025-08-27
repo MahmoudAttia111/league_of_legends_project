@@ -23,7 +23,7 @@ git clone https://github.com/username/league_of_legends_project.git
 cd league_of_legends_project
 pip install -r requirements.txt
 
-
+---
 ## 🚀 Usage
 
 Run the Python script:
@@ -36,7 +36,7 @@ Or open the Jupyter notebook:
 
 ```bash
 jupyter notebook league_of_legends_Project.ipynb
-
+---
 
 ## 🧰 Models Implemented
 - Logistic Regression  
@@ -46,7 +46,7 @@ jupyter notebook league_of_legends_Project.ipynb
 - Support Vector Machine (SVM)  
 - XGBoost  
 - Neural Networks (Keras/TensorFlow)  
-
+---
 ## 📊 Tasks Covered
 - **Binary Classification** → Win/Loss prediction  
 - **Regression** → Predicting gold earned  
