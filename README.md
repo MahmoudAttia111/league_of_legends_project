@@ -1,7 +1,9 @@
-League of Legends Project 🎮  
-This project analyzes League of Legends match data using Machine Learning and Deep Learning techniques.  
-It includes data preprocessing, binary classification (win prediction), regression (gold earned prediction), and multi-class classification (role prediction) with visualization and performance comparison.  
+# League of Legends Project 🎮
 
+This project analyzes **League of Legends match data** using **Machine Learning and Deep Learning** techniques.  
+It includes **data preprocessing, binary classification (win prediction), regression (gold earned prediction), and multi-class classification (role prediction)** with visualization and performance comparison.
+
+---
 ## 📂 Project Structure
 - data/ → Dataset files  
 - model/ → Trained models and related scripts  
