@@ -23,37 +23,32 @@ git clone https://github.com/username/league_of_legends_project.git
 cd league_of_legends_project
 pip install -r requirements.txt
 
-🚀 Usage
+
+## 🚀 Usage
 
 Run the Python script:
 
+```bash
 python league_of_legends_project.py
 
 
 Or open the Jupyter notebook:
 
+```bash
 jupyter notebook league_of_legends_Project.ipynb
 
-🧰 Models Implemented
 
-Logistic Regression
+## 🧰 Models Implemented
+- Logistic Regression  
+- KNN  
+- Decision Tree (Grid Search)  
+- Random Forest  
+- Support Vector Machine (SVM)  
+- XGBoost  
+- Neural Networks (Keras/TensorFlow)  
 
-KNN
+## 📊 Tasks Covered
+- **Binary Classification** → Win/Loss prediction  
+- **Regression** → Predicting gold earned  
+- **Multi-class Classification** → Role prediction  
 
-Decision Tree (Grid Search)
-
-Random Forest
-
-Support Vector Machine (SVM)
-
-XGBoost
-
-Neural Networks (Keras/TensorFlow)
-
-📊 Tasks Covered
-
-Binary Classification → Win/Loss prediction
-
-Regression → Predicting gold earned
-
-Multi-class Classification → Role prediction
